@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0561-array-partition](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [1051-height-checker](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/1051-height-checker) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [1051-height-checker](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/1051-height-checker) |
 ## Math
 |  |
 | ------- |
@@ -47,4 +49,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
