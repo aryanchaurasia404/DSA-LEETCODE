@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 ## Greedy
 |  |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/1051-height-checker) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
