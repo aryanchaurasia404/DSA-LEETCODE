@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0561-array-partition](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0561-array-partition) |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0231-power-of-two) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
