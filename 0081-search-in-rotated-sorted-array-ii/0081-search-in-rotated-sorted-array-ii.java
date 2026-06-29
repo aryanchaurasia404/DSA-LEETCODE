@@ -1,6 +1,6 @@
 class Solution {
     public boolean search(int[] nums, int target) {
-        Arrays.sort(nums);
+     /*   Arrays.sort(nums);
 
         int left = 0;
         int right = nums.length - 1;
@@ -17,6 +17,12 @@ class Solution {
             }
         }
 
+        return false;*/
+        for (int i = 0 ; i < nums.length ; i++){
+            if(nums [i] == target){
+            return true;
+            }
+        }
         return false;
     }
 }
