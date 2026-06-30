@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
 | [1109-corporate-flight-bookings](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
