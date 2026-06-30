@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1051-height-checker](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/1051-height-checker) |
 | [1109-corporate-flight-bookings](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0875-koko-eating-bananas](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
 | ------- |
