@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
 | [1109-corporate-flight-bookings](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
