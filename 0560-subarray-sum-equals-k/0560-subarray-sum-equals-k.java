@@ -1,19 +1,42 @@
-public class Solution {
+class Solution {
     public int subarraySum(int[] nums, int k) {
         int count = 0;
-      
-        int[] sum = new int[nums.length + 1];
-        sum[0] = 0;
-        for (int i = 1; i <= nums.length; i++)
-            sum[i] = sum[i - 1] + nums[i - 1];
-      
-        for (int start = 0; start < sum.length; start++) {
-            for (int end = start + 1; end < sum.length; end++) {
-                if (sum[end] - sum[start] == k)
-                    count++;
+        int currentSum = 0;
+        int size = 1 << 15;
+        int mask = size - 1;
+        int[] keys = new int[size];
+        int[] values = new int[size];
+        boolean[] used = new boolean[size];
+        put(keys, values, used, mask, 0, 1);
+        for(int num : nums){
+            currentSum = currentSum + num;
+            int target = currentSum - k; 
+            int h = hash(target) & mask;
+            while(used[h]){
+                if(keys[h] == target){
+                    count = count + values[h];
+                    break;
+                }
+                h = (h + 1) & mask;
             }
+            put(keys, values, used, mask, currentSum, 1);
         }
-      
         return count;
+    }
+
+    private void put(int[] keys, int[] values, boolean[] used, int mask, int key, int val){
+        int h = hash(key) & mask;
+        while(used[h] && keys[h] != key){
+            h = (h + 1) & mask;
+        }
+        keys[h] = key;
+        values[h] = values[h] + val;
+        used[h] = true;
+    }
+    private int hash(int x){
+        x = ((x >>> 16) ^ x) * 0x45d9f3b;
+        x = ((x >>> 16) ^ x) * 0x45d9f3b;
+        x = ((x >>> 16) ^ x);
+        return x;
     }
 }
