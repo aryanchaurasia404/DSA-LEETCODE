@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -170,4 +172,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
