@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0090-subsets-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
