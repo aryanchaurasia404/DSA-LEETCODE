@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
+| [0977-squares-of-a-sorted-array](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/1051-height-checker) |
 | [1109-corporate-flight-bookings](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/1051-height-checker) |
 ## Math
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
 | ------- |
