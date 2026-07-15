@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0125-valid-palindrome) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0268-missing-number) |
@@ -283,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
