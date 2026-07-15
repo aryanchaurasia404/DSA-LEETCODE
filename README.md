@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0125-valid-palindrome) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [0561-array-partition](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0561-array-partition) |
 ## Counting Sort
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
