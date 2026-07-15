@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0206-reverse-linked-list) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -242,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
