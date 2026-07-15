@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0075-sort-colors) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0268-missing-number) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/aryanchaurasia404/DSA-LEETCODE/tree/master/0048-rotate-image) |
 ## Monotonic Stack
 |  |
 | ------- |
